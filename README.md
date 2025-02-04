@@ -1,6 +1,6 @@
 # OCaml Jobs
 
-This data is updated weekly, with filled postings removed. Last updated: 01/30/2025
+This data is updated weekly, with filled postings removed. Last updated: 02/04/2025
 
 All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent postings, see: [OCaml Jobs](https://algojobs.io/jobs/ocaml)
 
